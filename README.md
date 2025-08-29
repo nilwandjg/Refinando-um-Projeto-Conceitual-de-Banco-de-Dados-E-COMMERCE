@@ -10,4 +10,4 @@ Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad
 - Entrega – Possui status e código de rastreio.
 
 ## Ferramentas 🛠️
-- [MySQL Workbench]([site](https://www.mysql.com/products/workbench/))
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
