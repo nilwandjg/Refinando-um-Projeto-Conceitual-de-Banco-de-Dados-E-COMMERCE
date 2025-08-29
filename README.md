@@ -11,3 +11,6 @@ Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad
 
 ## Ferramentas 🛠️
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+## Diagrama 📷
+![Diagrama E-commerce](diagrama_e-commerce.png)
