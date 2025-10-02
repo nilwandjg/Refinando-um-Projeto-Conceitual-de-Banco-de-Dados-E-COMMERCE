@@ -1,7 +1,7 @@
 # Refinando um Projeto Conceitual de Banco de Dados
 
 ## Descrição 📋
-Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad**, com o objetivo de refinar um modelo de E-commerce.
+Projeto prático desenvolvido na plataforma **DIO** em parceria com a **Randstad**, com o objetivo de refinar um modelo de e-commerce.
 
 ## Objetivo 🎯
 ### Adicionar ao modelo as seguintes características:
